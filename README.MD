@@ -36,6 +36,6 @@ Voici les méthodes les plus utilisées:
 
 Je suis un passionné de la programmation informatique. J'aime coder avec Python, je prône l'évangélisation de Django et Falsk. 
 
-Cette api a été pensée et codée par Mpia M.
+Cette api a été pensée et codée par Mpia Mimpiya P.
 
 
