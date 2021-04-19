@@ -16,7 +16,7 @@ Entrer dans le dossier en faisant **<code> cd flask_blog_api </code>**
 
 Ensuite créez un environnement virtuel, je rappelle que ça se fait via la commande: **<code>python3 -m venv nom_virtual_env</code>**. Il faut bien sûr l'activer **<code>source nom_virtual_env/bin/activate</code>**.
 
-Installer les packets: **<code>pip3 install requirements.text</code>**
+Installer les packets: **<code>pip3 install -r requirements.text</code>**
 
 Normalement si toutes les étapes sont respectées, tout devrait marcher  **nice**
 
